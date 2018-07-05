@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Handling EMV Tag Data](README.md)
+* [Support](README.md)
+* [WiFi Setup Guide](wifi-configuration.md)
 

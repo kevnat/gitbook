@@ -58,7 +58,11 @@ Once password is entered for selected network, the device will display the follo
 
   
 After creating a new WiFi profile, the device must be rebooted. If the reboot does not happen automatically, please hold down the \[.,\#\*\] and \[&lt;\(Yellow\)\] keys to initiate one manually.  
-Upon startup, the terminal will prompt you to complete the provisioning process. Proceed through the screens and make sure the devices shows "Bolted."
+Upon startup, the terminal will prompt you to complete the provisioning process. 
+
+It will now show the terminal's IP Address. If you still see 0.0.0.0 as an IP address, please retry connecting to your WiFi network before proceeding. Once a valid IP address is obtained, proceed through the screens and make sure the devices shows "Bolted."
+
+Due to the current interface for WiFi Configuration, it would be recommended to set up a network with either no passphrase, or a simple one that would be easy to enter on the keyboard. 
 
 
 

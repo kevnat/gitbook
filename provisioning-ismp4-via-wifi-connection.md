@@ -58,7 +58,7 @@ Once password is entered for selected network, the device will display the follo
 
   
 After creating a new WiFi profile, the device must be rebooted. If the reboot does not happen automatically, please hold down the \[.,\#\*\] and \[&lt;\(Yellow\)\] keys to initiate one manually.  
-Upon startup, the display footer should read "Bolted". If still "Unbolted", go back into the WiFi Properties through the Bolt Menu and select Connection Status.
+Upon startup, the terminal will prompt you to complete the provisioning process. Proceed through the screens and make sure the devices shows "Bolted."
 
 
 
